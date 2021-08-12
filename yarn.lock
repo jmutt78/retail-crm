@@ -2585,10 +2585,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@stripe/stripe-js@^1.13.1":
-  version "1.13.1"
-  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-1.13.1.tgz#71384666dbd575f154bcdf923f5aa0f7be22d31c"
-  integrity sha512-mmW+38/RJiWP0B7jmekL+MTDpkDMi34ygZ3j0NIoGa/h6eAXlGDA4lOqqg6aMH9Jd2RzDUndKxvSPPQnFnpdqw==
+"@stripe/stripe-js@^1.17.0":
+  version "1.17.0"
+  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-1.17.0.tgz#1961aad0aa4d2f1609753c2807ed39baea025691"
+  integrity sha512-LztkapiDV+2bEjsmAL2QnmTQBJwx37VnvuBkgXxPe9cJr2jbK0UGzumxSZUiRXeUlgh5j3CXh5jsGFTdc3iv+Q==
 
 "@szmarczak/http-timer@^1.1.2":
   version "1.1.2"
